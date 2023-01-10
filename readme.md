@@ -49,7 +49,7 @@ REQUIRED SECTIONS:
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello Microverse]** is a project to set up a "Hello world" repository and learn to configure the different linters that we will use in our Microverse's journey.
+**[Hello Microverse]** is a project to set up a "Hello world" repository and learn how to configure the different linters that we will use in our Microverse's journey.
 
 ## 🛠 Built With <a name="built-with"></a>
 
