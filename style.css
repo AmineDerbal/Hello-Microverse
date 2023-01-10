@@ -1,3 +1,8 @@
-h1 {
+.title {
   color: red;
+  text-align: center;
+}
+
+.header {
+  background-color: aqua;
 }
