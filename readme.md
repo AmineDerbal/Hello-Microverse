@@ -1,26 +1,13 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="/learners.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-Modify this file to match your project and remove sections that don't apply.
+  <h3><b>Journey of a student</b></h3>
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-
-<!-- TABLE OF CONTENTS -->
+</div>
 
 # 📗 Table of Contents
 
@@ -32,7 +19,7 @@ REQUIRED SECTIONS:
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
+  - [Instructions](#instructions)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
@@ -46,8 +33,6 @@ REQUIRED SECTIONS:
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse]** is a project to set up a "Hello world" repository and learn how to configure the different linters that we will use in our Microverse's journey.
 
@@ -105,49 +90,13 @@ In order to run this project you need:
 
 Knowledge in html,css,git,github and npm
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
+### Instructions
 
 Install this project with: npm install
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
@@ -156,23 +105,7 @@ To run tests, run the following command:
 npx hint . "to check html errors"
 Refer to this [Documentation]("https://github.com/microverseinc/linters-config/tree/master/html-css#stylelint") for information how to check styles error
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
 ### Deployment
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
